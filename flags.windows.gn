@@ -14,6 +14,3 @@ v8_symbol_level=0
 symbol_level=0
 enable_rust=true
 enable_mse_mpeg2ts_stream_parser=true
-use_lld = true
-use_thin_lto = true
-cflags_cc += [ "-mavx2" ]
