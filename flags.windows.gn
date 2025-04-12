@@ -16,3 +16,4 @@ enable_rust=true
 enable_mse_mpeg2ts_stream_parser=true
 use_thin_lto = true
 use_lld = true
+thin_lto_enable_optimizations = true
